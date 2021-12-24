@@ -1,0 +1,4 @@
+[all]
+
+[seedhost]
+seedhost ansible_host: 95.211.191.89
